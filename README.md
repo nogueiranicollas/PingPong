@@ -7,6 +7,11 @@
 
  ### Tela Principal:
  
+ ![image](https://user-images.githubusercontent.com/48921922/219487419-d22eacaa-a1eb-4c60-82ee-8fdf1178fd7e.png)
  
+ 
+ ### JOGO BASEADO NO ANTIGO CLASSICO PONG:
+ 
+ A temática do jogo envolve desafios de controle das margins da tela, controle de mouse entre outros.
  
  
